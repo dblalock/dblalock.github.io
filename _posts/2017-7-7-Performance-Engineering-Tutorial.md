@@ -102,7 +102,7 @@ The details of how many successive accesses are required and how far ahead the p
 
 It can also notice when there are multiple sequences of accesses at once; e.g., if you have code that looks like:
 
-```C
+```c
 for (int i = 0; i < 100*1000*1000; i++) {
     c[i] = a[i] + b[i];
 }
