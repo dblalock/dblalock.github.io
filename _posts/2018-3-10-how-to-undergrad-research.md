@@ -53,7 +53,7 @@ Doing research will get you some combination of:
  - One or more peer-reviewed papers with your name on them
  - A recommendation from a faculty member
 
-What a "successful" undergraduate research experience looks like depends on your personal goals. If your goal is to pursue a PhD or a research-heavy MS, one of the most important outcomes of undergraduate research is the recommendation you (hopefully) end up with at the end. Recommendations factors highly in university acceptance decisions, and while they may take many forms, an example of a good one might be:
+What a "successful" undergraduate research experience looks like depends on your personal goals. If your goal is to pursue a PhD or a research-heavy MS, one of the most important outcomes of undergraduate research is the recommendation you (hopefully) end up with at the end. Recommendations factor highly in university acceptance decisions, and while they may take many forms, an example of a good one might be:
 
 <!-- What a "successful" undergraduate research experience looks like depends on your personal goals. For many goals, there's little I can tell you that you don't already know. If your goal is to pursue a PhD or research-heavy MS, however, I can tell you that a large portion of "successful" is getting a recommendation that looks roughly as follows: -->
 
