@@ -19,6 +19,17 @@ I do this because 1) I'm good at it, and 2) I claim that it's extremely importan
 
 There's more specific reasoning behind my individual projects, but these points hopefully give you a taste of why I think speed is important.
 
+I've had a lot of failures in pursuing this, but also some successes. My favorite successes so far include:
+
+ - Learning to recognize spoken words from five unlabeled examples in under two seconds [1]
+ - Training on data at 5GB/s in a single thread [2]
+ - Multiplying matrices 10x faster than a matrix multiply (with some approximation error) [3]
+ - Nearest-neighbor searching through billions of images per second in one thread with no  indexing [3]
+
+[1] https://arxiv.org/abs/1609.09196
+[2] https://arxiv.org/abs/1808.02515
+[3] https://arxiv.org/abs/1706.10283
+
  <!-- 1. The history of technology shows that desirable features take a back seat to essential features. E.g., no one was worried about the Ford Model-T not having airbags, as long as it took you places better than a horse. In machine learning today, we're seeing model accuracy and inference time dominate desirable traits like security, fairness, privacy, and safety. By making it easy to obtain "good enough" models in the essential respects, -->
  <!-- 1. A -->
 
@@ -29,4 +40,6 @@ There's more specific reasoning behind my individual projects, but these points 
  - I was [profiled in UVA Today](https://news.virginia.edu/content/two-uva-engineering-students-net-prestigious-goldwater-scholarships) after winning a [Goldwater scholarship](https://en.wikipedia.org/wiki/Barry_M._Goldwater_Scholarship).
  - If you need something official-looking to say about me, here's a bio:
 
-    > "Davis Blalock is a PhD student at MIT, advised by Professor [John Guttag](https://en.wikipedia.org/wiki/John_Guttag). His primary work is designing high-performance machine learning algorithms, with the goal of turning streams of medical, smart phone, and wearable sensor data into useful pictures of people’s health. He received his M.S. from MIT in 2016 and his B.S. from the University of Virginia in 2014. He is an NSF Graduate Research Fellow, Qualcomm Innovation Fellow, and Barry M. Goldwater Scholar."
+    > "Davis Blalock is a PhD student at MIT, advised by Professor [John Guttag](https://en.wikipedia.org/wiki/John_Guttag). His primary work is designing high-performance machine learning algorithms, with the goal of eliminating tradeoffs between speed, accuracy, privacy, and safety in machine learning. He received his M.S. from MIT in 2016 and his B.S. from the University of Virginia in 2014. He is an NSF Graduate Research Fellow, Qualcomm Innovation Fellow, and Barry M. Goldwater Scholar."
+
+    <!-- of turning streams of medical, smart phone, and wearable sensor data into useful pictures of people’s health. He received his M.S. from MIT in 2016 and his B.S. from the University of Virginia in 2014. He is an NSF Graduate Research Fellow, Qualcomm Innovation Fellow, and Barry M. Goldwater Scholar." -->
