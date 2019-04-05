@@ -27,8 +27,8 @@ I've had a lot of failures in pursuing this, but also some successes. My favorit
  - Nearest-neighbor searching through billions of images per second in one thread with no  indexing [3]
 
 [1] https://arxiv.org/abs/1609.09196
-[2] https://arxiv.org/abs/1808.02515
-[3] https://arxiv.org/abs/1706.10283
+<br/>[2] https://arxiv.org/abs/1808.02515
+<br/>[3] https://arxiv.org/abs/1706.10283
 
  <!-- 1. The history of technology shows that desirable features take a back seat to essential features. E.g., no one was worried about the Ford Model-T not having airbags, as long as it took you places better than a horse. In machine learning today, we're seeing model accuracy and inference time dominate desirable traits like security, fairness, privacy, and safety. By making it easy to obtain "good enough" models in the essential respects, -->
  <!-- 1. A -->
